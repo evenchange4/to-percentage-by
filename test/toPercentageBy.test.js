@@ -1,12 +1,16 @@
 import test from 'ava';
-import toPercentageBy from '../src/toPercentageBy';
+import {
+  default as toPercentageBy,
+  toPercentage as defaultToPercentage,
+} from '../src/index';
 
 test('should return a function', t => {
   t.is(typeof toPercentageBy, 'function');
+  t.is(typeof defaultToPercentage, 'function');
 });
 
 test('test toFixed=2 (default)', t => {
-  const toPercentage = toPercentageBy();
+  const toPercentage = defaultToPercentage;
 
   t.is(toPercentage(0.1), '10%');
   t.is(toPercentage(0.11), '11%');

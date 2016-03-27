@@ -22,10 +22,16 @@ $ npm install to-percentage-by --save
 ## Usage
 
 ```js
-import toPercentageBy from 'to-percentage-by';
+import {
+  default as toPercentageBy,
+  toPercentage as defaultToPercentageBy,
+} from 'to-percentage-by';
+
+// defaultToPercentageBy equals to toPercentageBy()
 
 var toPercentage = toPercentageBy();
 t.is(toPercentage(0.11111), '11.11%');
+t.is(defaultToPercentageBy(0.11111), '11.11%');
 
 var toPercentage = toPercentageBy(0);
 t.is(toPercentage(0.11111), '11%');
