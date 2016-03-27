@@ -1,6 +1,6 @@
 {
   "name": "to-percentage-by",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Convert a Float number to percentage with rounding, ceiling or flooring.",
   "author": "Michael Hsu",
   "license": "MIT",
