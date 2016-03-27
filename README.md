@@ -19,6 +19,8 @@
 $ npm install to-percentage-by --save
 ```
 
+[Quick DEMO on tonicdev](https://tonicdev.com/evenchange4/to-percentage-by)
+
 ## Usage
 
 ```js
