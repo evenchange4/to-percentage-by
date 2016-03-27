@@ -32,6 +32,9 @@ t.is(toPercentage(0.11111), '11%');
 
 var toPercentage = toPercentageBy(2, Math.ceil);
 t.is(toPercentage(0.11111), '11.12%');
+
+var toPercentage = toPercentageBy(2, Math.floor);
+t.is(toPercentage(0.11115), '11.11%');
 ```
 
 ## API
