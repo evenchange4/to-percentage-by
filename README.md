@@ -2,7 +2,9 @@
 
 > Convert a Float number to percentage with rounding, ceiling or flooring.
 
-[![Travis][build-badge]][build] [![Coverage Status][coveralls-badge]][coveralls] [![npm package][npm-badge]][npm] [![npm downloads][npm-downloads]][npm] [![license][license-badge]][license]
+[![Travis][build-badge]][build] [![Codecov Status][codecov-badge]][codecov] [![npm package][npm-badge]][npm] [![npm downloads][npm-downloads]][npm] [![license][license-badge]][license]
+
+[![Dependency Status][dependency-badge]][dependency] [![devDependency Status][devDependency-badge]][devDependency] [![peerDependency Status][peerDependency-badge]][peerDependency]
 
 [build-badge]: https://img.shields.io/travis/evenchange4/to-percentage-by/master.svg?style=flat-square
 [build]: https://travis-ci.org/evenchange4/to-percentage-by
@@ -10,13 +12,20 @@
 [npm-badge]: https://img.shields.io/npm/v/to-percentage-by.svg?style=flat-square
 [npm]: https://www.npmjs.org/package/to-percentage-by
 
-[coveralls-badge]: https://img.shields.io/coveralls/evenchange4/to-percentage-by/master.svg?style=flat-square
-[coveralls]: https://coveralls.io/github/evenchange4/to-percentage-by
+[codecov-badge]: https://img.shields.io/codecov/c/github/evenchange4/to-percentage-by.svg?style=flat-square
+[codecov]: https://codecov.io/github/evenchange4/to-percentage-by?branch=master
 
 [npm-downloads]: https://img.shields.io/npm/dt/to-percentage-by.svg?style=flat-square
 
 [license-badge]: https://img.shields.io/npm/l/to-percentage-by.svg?style=flat-square
 [license]: http://michaelhsu.mit-license.org/
+
+[dependency-badge]: https://david-dm.org/evenchange4/to-percentage-by.svg?style=flat-square
+[dependency]: https://david-dm.org/evenchange4/to-percentage-by
+[devDependency-badge]: https://david-dm.org/evenchange4/to-percentage-by/dev-status.svg?style=flat-square
+[devDependency]: https://david-dm.org/evenchange4/to-percentage-by#info=devDependencies
+[peerDependency-badge]: https://david-dm.org/evenchange4/to-percentage-by/peer-status.svg?style=flat-square
+[peerDependency]: https://david-dm.org/evenchange4/to-percentage-by#info=peerDependencies
 
 ## Installation
 
