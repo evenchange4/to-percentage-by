@@ -1,6 +1,5 @@
 import test from 'ava';
-import {
-  default as toPercentageBy,
+import toPercentageBy, {
   toPercentage as defaultToPercentage,
 } from '../src/index';
 
