@@ -1,7 +1,5 @@
 # to-percentage-by
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/evenchange4/to-percentage-by.svg)](https://greenkeeper.io/)
-
 > Convert a Float number to percentage with rounding, ceiling or flooring.
 
 [![Travis][build-badge]][build] [![Codecov Status][codecov-badge]][codecov] [![npm package][npm-badge]][npm] [![npm downloads][npm-downloads]][npm] [![license][license-badge]][license]
@@ -28,6 +26,7 @@
 [devDependency]: https://david-dm.org/evenchange4/to-percentage-by#info=devDependencies
 [peerDependency-badge]: https://david-dm.org/evenchange4/to-percentage-by/peer-status.svg?style=flat-square
 [peerDependency]: https://david-dm.org/evenchange4/to-percentage-by#info=peerDependencies
+[![Greenkeeper badge](https://badges.greenkeeper.io/evenchange4/to-percentage-by.svg)](https://greenkeeper.io/)
 
 ## Installation
 
