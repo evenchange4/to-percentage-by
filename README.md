@@ -26,6 +26,7 @@
 [devDependency]: https://david-dm.org/evenchange4/to-percentage-by#info=devDependencies
 [peerDependency-badge]: https://david-dm.org/evenchange4/to-percentage-by/peer-status.svg?style=flat-square
 [peerDependency]: https://david-dm.org/evenchange4/to-percentage-by#info=peerDependencies
+[![Greenkeeper badge](https://badges.greenkeeper.io/evenchange4/to-percentage-by.svg)](https://greenkeeper.io/)
 
 ## Installation
 
